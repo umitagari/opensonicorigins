@@ -28,7 +28,7 @@ def s2():
 	sonic2 = os.system('sonic2.bin')
 
 def s3():
-	sonic3 = os.system('sonic2.bin')
+	sonic3 = os.system('sonic.bin')
 
 def scd():
 	soniccd = os.system('soniccd.iso')
